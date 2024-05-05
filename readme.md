@@ -4,6 +4,8 @@
 
 **👋 Welcome to your new Foam Knowledge Base!**
 
+Wohoo!
+
 ## Getting started
 
 This documentation assumes that you have a GitHub account and have [Visual Studio Code](https://code.visualstudio.com/) installed on your Linux/macOS/Windows machine.
@@ -12,7 +14,7 @@ This documentation assumes that you have a GitHub account and have [Visual Studi
 2. Press "Use this template" button at [foam-template](https://github.com/foambubble/foam-template/generate) (that's this repository!) to fork it to your own GitHub account. If you want to keep your thoughts to yourself, remember to set the repository private.
 3. [Clone the repository to your local machine](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) and open it in VS Code.
 
-    *Open the repository as a folder using the `File > Open...` menu item.*
+    _Open the repository as a folder using the `File > Open...` menu item._
 
 4. When prompted to install recommended extensions, click **Install all** (or **Show Recommendations** if you want to review and install them one by one)
 
@@ -26,9 +28,9 @@ And remember that you can always join our [Foam community on Discord](https://fo
 
 We've created a few Bubbles (Markdown documents) to get you started.
 
-- [inbox](./inbox.md) - a place to write down quick notes to be categorized later
-- [getting-started](./getting-started.md) - learn how to use your Foam workspace
-- [todo](./todo.md) - a place to keep track of things to do
+-   [inbox](./inbox.md) - a place to write down quick notes to be categorized later
+-   [getting-started](./getting-started.md) - learn how to use your Foam workspace
+-   [todo](./todo.md) - a place to keep track of things to do
 
 In the `docs` directory you can find everything you need to learn the basics of Foam.
 
